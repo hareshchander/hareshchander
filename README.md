@@ -1,11 +1,12 @@
-![Header](https://i.pinimg.com/originals/8c/89/6a/8c896a4ef707e9f6b6fefba8a6d4a3e5.jpg)
+<!-- Header Banner -->
+![Header](https://i.pinimg.com/originals/2c/10/18/2c1018c3a6c8bde53661e48e14583f08.jpg)
 
 <h1 align="center">
   Hi <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40px" style="vertical-align:middle;"/> I'm Haresh Chander
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=Electrical+Engineer+|+Renewable+Energy+Specialist;Smart+Grid+and+Power+System+Enthusiast;AI%2FML+Explorer+|+80%2B+LeetCode+Problems;Data-Driven+Solutions+for+Sustainable+Energy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=Electrical+Engineer+|+Renewable+Energy+Specialist;Smart+Grid+and+Power+System+Enthusiast;AI%2FML+Explorer+|+80%2B+LeetCode+Problems;Data-Driven+Solutions+for+Sustainable+Energy" alt="Typing SVG" />
 </div>
 
 <h2 align="center">📍 From Pakistan</h2>
@@ -15,21 +16,22 @@
 <h2 align="center">⚡ About Me</h2>
 
 <p align="center">
-I am an Electrical Engineer with over seven years of experience in the renewable and hydropower sector. 
-Currently working as an Executive Engineer at WAPDA, I specialize in power system operation, SCADA, and automation.  
-I'm deeply passionate about Smart Grid technologies, AI/ML applications in energy systems, and advancing sustainable power integration.  
+I am an Electrical Engineer with over seven years of experience in renewable and hydropower systems.  
+Currently serving as an Executive Engineer at WAPDA, I focus on SCADA, automation, and power system operation.  
+I’m passionate about Smart Grids, AI/ML for energy optimization, and sustainable technology development.  
 </p>
 
 ---
 
 <h2 align="center">🔥 Highlights</h2>
-<img align="right" alt="coding" width="300px" src="https://github.com/HareshChanderDev/HareshChanderDev/blob/main/assets/coding.gif">
+
+<img align="right" alt="coding" width="300px" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - ⚙️ **Current Role:** Executive Engineer, WAPDA  
 - 🌱 **Interests:** Smart Grids | Power Electronics | Renewable Integration | AI/ML  
 - 💡 **Technical Skills:** Python, MATLAB/Simulink, SCADA, Data Analysis  
 - 💬 **LeetCode Progress:** 80+ Problems Solved 🧠  
-- 🎯 **Goal:** To develop intelligent and resilient renewable power systems  
+- 🎯 **Goal:** Develop intelligent and resilient renewable energy systems  
 - ⚡ **Fun Fact:** I analyze power quality for fun and code for precision!  
 
 ---
@@ -39,9 +41,9 @@ I'm deeply passionate about Smart Grid technologies, AI/ML applications in energ
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
 </p>
 
@@ -50,15 +52,15 @@ I'm deeply passionate about Smart Grid technologies, AI/ML applications in energ
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HareshChanderDev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HareshChanderDev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HareshChanderDev&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HareshChanderDev&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HareshChanderDev&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HareshChanderDev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
