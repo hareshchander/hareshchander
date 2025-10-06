@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-![Header](https://i.pinimg.com/originals/2c/10/18/2c1018c3a6c8bde53661e48e14583f08.jpg)
+![Header](https://github.com/HareshChanderDev/HareshChanderDev/blob/main/assets/energy-ai-banner.gif)
 
 <h1 align="center">
   Hi <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40px" style="vertical-align:middle;"/> I'm Haresh Chander
