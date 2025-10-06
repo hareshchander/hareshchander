@@ -17,7 +17,7 @@
 
 <p align="center">
 I am an Electrical Engineer with over seven years of experience in renewable and hydropower systems.  
-Currently serving as an Executive Engineer at WAPDA, I focus on SCADA, automation, and power system operation.  
+Currently serving as an Executive Engineer at Water and Power Development Authority of Pakistan, the country’s largest state-owned renewable power sector. I focus on SCADA, automation, and power system operation.  
 I’m passionate about Smart Grids, AI/ML for energy optimization, and sustainable technology development.  
 </p>
 
@@ -43,8 +43,7 @@ I’m passionate about Smart Grids, AI/ML for energy optimization, and sustainab
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" width="50" height="50"/>
 </p>
 
 ---
@@ -68,13 +67,13 @@ I’m passionate about Smart Grids, AI/ML for energy optimization, and sustainab
 <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/haresh-chander/" target="_blank">
+  <a href="https://www.linkedin.com/in/haresh-chander-a9899a87/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/hareshchander/" target="_blank">
+  <a href="https://leetcode.com/haresh_chander/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="mailto:hareshchander@example.com" target="_blank">
+  <a href="mailto:engrhareshchander@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
