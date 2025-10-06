@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-![Header]([https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:007BFF&height=200&section=header&text=Haresh%20Chander%20⚡&fontSize=45&fontColor=ffffff](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*PFWL8RjKjPpA4zAY))
+![Header](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*PFWL8RjKjPpA4zAY)
 
 <h1 align="center">
   Hi <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40px" style="vertical-align:middle;"/> I'm Haresh Chander
