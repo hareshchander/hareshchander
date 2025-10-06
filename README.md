@@ -59,8 +59,9 @@ I’m passionate about Smart Grids, AI/ML for energy optimization, and sustainab
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hareshchander&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hareshchander&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 
 
