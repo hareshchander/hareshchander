@@ -1,75 +1,88 @@
-## Hi there 👋
+![Header](https://i.pinimg.com/originals/8c/89/6a/8c896a4ef707e9f6b6fefba8a6d4a3e5.jpg)
 
-# 👋 Hi, I'm Haresh Chander  
+<h1 align="center">
+  Hi <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40px" style="vertical-align:middle;"/> I'm Haresh Chander
+</h1>
 
-### ⚡ Electrical Engineer | Renewable Energy & AI/ML Enthusiast | Smart Grid Advocate  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=Electrical+Engineer+|+Renewable+Energy+Specialist;Smart+Grid+and+Power+System+Enthusiast;AI%2FML+Explorer+|+80%2B+LeetCode+Problems;Data-Driven+Solutions+for+Sustainable+Energy" alt="Typing SVG" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/hareshchander)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/hareshchander)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-80%2B_Problems-orange?logo=leetcode)](https://leetcode.com/yourprofile)  
-[![Email](https://img.shields.io/badge/Email-Contact_me-red?logo=gmail)](mailto:your.email@example.com)
-
----
-
-Welcome to my GitHub profile! I’m an **Electrical Engineer** with over seven years of experience in **renewable and hydroelectric power systems**, currently working in the **Electrical Operation and Maintenance** domain. My work bridges practical engineering with emerging digital technologies to enhance **power system stability, smart grid performance, and energy efficiency**.  
+<h2 align="center">📍 From Pakistan</h2>
 
 ---
 
-### 💼 Professional Background  
-- ⚙️ Currently serving as **Executive Engineer at WAPDA (Water and Power Development Authority)**, focusing on hydropower generation, system reliability, and grid operations.  
-- 🌬️ Previously worked as **Site Lead (Electrical O&M)** at a 50 MW **Wind Power Plant** operated by **Hydro China International Engineering Ltd.**  
-- 🧠 Strong foundation in **power system analysis**, **SCADA**, **RTUs**, **IoT-based telemetry**, and **control room infrastructure design**.  
+<h2 align="center">⚡ About Me</h2>
+
+<p align="center">
+I am an Electrical Engineer with over seven years of experience in the renewable and hydropower sector. 
+Currently working as an Executive Engineer at WAPDA, I specialize in power system operation, SCADA, and automation.  
+I'm deeply passionate about Smart Grid technologies, AI/ML applications in energy systems, and advancing sustainable power integration.  
+</p>
 
 ---
 
-### 🧰 Technical Skills  
+<h2 align="center">🔥 Highlights</h2>
+<img align="right" alt="coding" width="300px" src="https://github.com/HareshChanderDev/HareshChanderDev/blob/main/assets/coding.gif">
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-Simulink-orange?logo=mathworks)
-![SCADA](https://img.shields.io/badge/SCADA-Systems-green)
-![IoT](https://img.shields.io/badge/IoT-Telemetry-blue)
-![PrimaveraP6](https://img.shields.io/badge/Primavera%20P6-Project%20Management-lightgrey)
-![MSProject](https://img.shields.io/badge/MS%20Project-Planning-green)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-Electrical-red)
-
-- **Programming & Analysis:** Python, MATLAB/Simulink  
-- **Project & Resource Management:** Primavera P6, MS Project  
-- **Systems Expertise:** SCADA, RTUs, IoT-based telemetry, Smart Grids  
-- **Tools & Design:** AutoCAD (Electrical)  
-- **Data & AI Interests:** Machine Learning applications in Energy Systems  
+- ⚙️ **Current Role:** Executive Engineer, WAPDA  
+- 🌱 **Interests:** Smart Grids | Power Electronics | Renewable Integration | AI/ML  
+- 💡 **Technical Skills:** Python, MATLAB/Simulink, SCADA, Data Analysis  
+- 💬 **LeetCode Progress:** 80+ Problems Solved 🧠  
+- 🎯 **Goal:** To develop intelligent and resilient renewable power systems  
+- ⚡ **Fun Fact:** I analyze power quality for fun and code for precision!  
 
 ---
 
-### 🚀 Current Projects  
-- ⚡ **Indus Telemetry Control System:** Developing IoT-based telemetry solutions for real-time monitoring, integrating **solar backup systems** and **battery storage** for improved reliability.  
-- 💻 **AI for Energy Optimization:** Exploring **data-driven algorithms** and **machine learning models** for predictive maintenance and energy forecasting in power systems.  
-- 🧩 **LeetCode Practice:** Solved **80+ problems**, focusing on algorithmic efficiency and clean Python implementations.  
-- 🧠 **Python Learning Projects:** Creating simulation and automation scripts related to smart grid operation and data analysis.  
+<h3 align="center">🧰 Tools & Technologies</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+</p>
 
 ---
 
-### 📚 Continuous Learning  
-- Strengthening skills in **AI/ML for smart grid analytics**, **control systems**, and **energy automation**.  
-- Actively participating in **hackathons** and collaborative coding challenges on **iCodeGuru**.  
-- Engaged in continuous upskilling through professional trainings and certifications.  
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HareshChanderDev&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HareshChanderDev&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HareshChanderDev&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-### 🏆 Notable Achievements  
-- ✅ Successfully completed **high-precision instrumentation testing** at *Siemens Milltronics, Canada (2025)*.  
-- 🥇 Received **Top Performer Award** in *Generative AI Application Development Training (2025)*.  
-- 🌐 Led **Indus Telemetry Project** initiatives involving real-time monitoring, solar integration, and IoT-based control systems.  
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/haresh-chander/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/hareshchander/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="mailto:hareshchander@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/hareshchander)
-[![Email](https://img.shields.io/badge/Email-Contact_me-red?logo=gmail)](mailto:your.email@example.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/hareshchander)
-
----
-
-> “Empowering clean energy systems through intelligent control, data-driven insights, and sustainable engineering.”
-
-⭐ If you find my projects insightful or aligned with your interests, feel free to **star** a repo or **connect** — I’m always open to collaboration and knowledge sharing!
+<div align="center">
+  <h3>Thanks for visiting! 👋</h3>
+  <p>Feel free to ⭐ my repositories if you find them useful!</p>
+  <a href="https://github.com/HareshChanderDev?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-%2304AA6D?style=flat-square&logo=github&logoColor=white" alt="Explore Repositories">
+  </a>
+</div>
