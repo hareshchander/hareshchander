@@ -5,13 +5,6 @@
   Hi <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40px" style="vertical-align:middle;"/> I'm Haresh Chander
 </h1>
 
-
-
-
-<h1 align="center">
-  Hi <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40px" style="vertical-align:middle;"/> I'm Haresh Chander
-</h1>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=Electrical+Engineer+|+Renewable+Energy+Specialist;Smart+Grid+and+Power+System+Enthusiast;AI%2FML+Explorer+|+80%2B+LeetCode+Problems;Data-Driven+Solutions+for+Sustainable+Energy" alt="Typing SVG" />
 </div>
