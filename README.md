@@ -1,5 +1,6 @@
 <!-- Header Banner -->
-![Header](https://raw.githubusercontent.com/TechOUs/TechOUs/main/assets/banner.png)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:007BFF&height=200&section=header&text=Haresh%20Chander%20⚡&fontSize=45&fontColor=ffffff)
+
 
 
 <h1 align="center">
